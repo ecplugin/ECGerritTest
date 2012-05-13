@@ -1,0 +1,13 @@
+<manifest>
+	<remote name="origin"
+	fetch="git://github.com/ecplugin/"
+	review="gerrit"/>
+	<default remote="origin"
+	revision="master"/>
+	<project name="ECGerritTest.git"
+	path="ECGerritTest"
+	remote="origin"/>
+	<project name="ectest.git"
+	path="ectest"
+	remote="origin"/>
+</manifest>
